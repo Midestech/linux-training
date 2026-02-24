@@ -1,0 +1,8 @@
+Linux Training Day 1
+pwd
+ls
+cd
+mkdir
+rm
+ps
+top
